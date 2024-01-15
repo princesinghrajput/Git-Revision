@@ -43,4 +43,3 @@ Remote connection --> It helps you to link two git repositories for uploading an
 
 `git remote rename <olname>`: This command rename the remote connections
 
-checking push
