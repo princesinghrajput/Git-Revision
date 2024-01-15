@@ -49,3 +49,4 @@ Remote connection --> It helps you to link two git repositories for uploading an
 
 
 `git pull <r name> <BranchName>`-->Downloadslatest changes from the branch of the 
+`Merge conflicts are very commom scenario~`
