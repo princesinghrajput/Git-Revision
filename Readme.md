@@ -47,4 +47,5 @@ Remote connection --> It helps you to link two git repositories for uploading an
 
 `git add . ` --> This command will add all files from working area to staging area
 
-Checking if it isworking or not
+
+`git pull <r name> <BranchName>`-->Downloadslatest changes from the branch of the 
