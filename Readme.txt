@@ -27,3 +27,5 @@ And the files in this area, git already manages them and know thier version hist
 
 `git restore <file>`--> It remove all file chages from the staging area to be committed. This can be useful, if we write some dirty lines and now  no more want to it. Instead of deleting every changes line by line, we can restore it or you can say restore last clean version of the file.
 
+`Third commit`
+
