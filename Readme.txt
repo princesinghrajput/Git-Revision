@@ -42,3 +42,5 @@ Remote connection --> It helps you to link two git repositories for uploading an
 `git remote rm <name of remote> : This commands delete a remote connections
 
 `git remote rename <olname>`: This command rename the remote connections
+
+checking push
