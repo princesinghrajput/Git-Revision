@@ -46,3 +46,5 @@ Remote connection --> It helps you to link two git repositories for uploading an
 `git add <file1> <file2>`-->This command will add multiple file change together in the staging area
 
 `git add . ` --> This command will add all files from working area to staging area
+
+Checking if it isworking or not
