@@ -32,3 +32,13 @@ Difference between rm and git restore
 
 
 `git commit -m "Messages" ` --> If we want to avoid text editor likr vim/nano to add commit message we can use this following command
+
+`git remote`--> List down all the remote connection names
+
+Remote connection --> It helps you to link two git repositories for uploading and downloading changes from each otherwise
+
+`git remote add <name of remote> <Link of remote>` --> This command helps you to add a new link to the remote repo and give a name to it
+
+`git remote rm <name of remote> : This commands delete a remote connections
+
+`git remote rename <olname>`: This command rename the remote connections
